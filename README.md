@@ -12,6 +12,14 @@ Time Series Exploration: Time series analysis allowed users to understand how ac
 
 Root Cause Identification: To address the root causes of accidents, the project dissected contributing factors such as weather conditions, road infrastructure, and vehicle types. This analysis served as a foundation for evidence-based policy recommendations.
 
+Separate Measure Tables: To optimize performance and simplify the user experience, I created separate measure tables.
+
+User-Centric Design: I crafted the report keeping the end users in mind, catering to the needs of executives, managers, and analysts, ensuring that the insights are easily accessible and meaningful for all.
+
+Dynamic Interaction: To enhance user engagement, I utilized bookmarks and buttons, making the report highly dynamic and responsive to user interactions.
+
+Drill Through and Tooltips: To make the report even more interesting, I implemented drill-through features and informative tooltips, allowing users to explore the data in-depth and gain valuable insights.
+
 Key Takeaways:
 
 Data-Driven Insights: The project underscores the power of data in addressing real-world issues. Data-driven insights play a pivotal role in creating effective road safety strategies, making informed policy decisions, and raising awareness among the public.
@@ -23,3 +31,7 @@ Temporal Trends Matter: The time series analysis component demonstrated that roa
 Customization Empowers Users: The ability to customize the analysis according to specific needs empowers users to extract the information most relevant to their goals, whether they are researchers, policymakers, or concerned citizens.
 
 Collaboration Drives Change: The project promotes collaboration and knowledge sharing, emphasizing that making roads safer is a collective effort. By sharing insights and initiating dialogues, we can work together to implement changes that save lives.
+
+Tools Used:
+Microsoft Power BI Desktop: Used for data modeling, visualization, and dashboard creation.
+DAX (Data Analysis Expressions): Used to create calculated columns and measures.
